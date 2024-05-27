@@ -1,1 +1,1 @@
-Hello, Conflict
+Hello, Conflict, but I like it!
